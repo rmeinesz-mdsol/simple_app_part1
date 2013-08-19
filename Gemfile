@@ -7,7 +7,7 @@ gem 'bootstrap-sass'
 # gem 'rails', :git => 'git://github.com/rails/rails.git'
 
 # gem 'sqlite3'
-gem 'mysql'
+gem 'mysql2'
 gem 'activerecord-mysql-adapter'
 
 gem 'therubyracer'
