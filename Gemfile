@@ -8,6 +8,7 @@ gem 'bootstrap-sass'
 
 # gem 'sqlite3'
 gem 'mysql'
+gem 'activerecord-mysql-adapter'
 
 gem 'therubyracer'
 
