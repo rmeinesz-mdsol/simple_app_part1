@@ -9,6 +9,12 @@ gem 'bootstrap-sass'
 gem 'sqlite3'
 gem 'mysql2'
 
+gem 'therubyracer'
+
+gem 'unicorn-rails'
+
+gem 'nginx'
+
 
 # Gems used only for assets and not required
 # in production environments by default.
